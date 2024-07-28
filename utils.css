@@ -2,11 +2,11 @@
     min-height: 100vh;
 }
 .bg-orange{
-    background-color: rgb(240, 238, 244);
+    background-color: rgb(38,24,66);
 }
 
 .bg-red{
-    background-color: rgb(235, 221, 236);
+    background-color: red;
 }
 
 .mx-auto{
@@ -72,4 +72,7 @@
 
 .text-center{
     text-align: center;
+}
+.font{
+    color: white;
 }
